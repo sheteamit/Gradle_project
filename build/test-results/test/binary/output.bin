@@ -1,0 +1,235 @@
+sample test 001
+status code 200
+B**POST** request Url: http://www.technicalkeeda.com/post-request
+Parameters : [name=Yashwant]
+Response Code: 200
+
+Content:-
+
+M<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+&<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+?<p>Message:  Only variables should be passed by reference</p>
+)<p>Filename: codeigniter/Common.php</p>
+<p>Line Number: 148</p>
+
+S</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+&<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+—<p>Message:  Methods with the same name as their class will not be constructors in a future version of PHP; CI_Hooks has a deprecated constructor</p>
+&<p>Filename: libraries/Hooks.php</p>
+<p>Line Number: 30</p>
+
+S</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+&<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+˜<p>Message:  Methods with the same name as their class will not be constructors in a future version of PHP; CI_Config has a deprecated constructor</p>
+'<p>Filename: libraries/Config.php</p>
+<p>Line Number: 29</p>
+
+S</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+&<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+?<p>Message:  Only variables should be passed by reference</p>
+)<p>Filename: codeigniter/Common.php</p>
+<p>Line Number: 148</p>
+
+S</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+&<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+?<p>Message:  Only variables should be passed by reference</p>
+)<p>Filename: codeigniter/Common.php</p>
+<p>Line Number: 148</p>
+
+S</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+&<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+•<p>Message:  Methods with the same name as their class will not be constructors in a future version of PHP; CI_URI has a deprecated constructor</p>
+$<p>Filename: libraries/URI.php</p>
+<p>Line Number: 29</p>
+
+S</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+&<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+?<p>Message:  Only variables should be passed by reference</p>
+)<p>Filename: codeigniter/Common.php</p>
+<p>Line Number: 148</p>
+
+S</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+&<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+˜<p>Message:  Methods with the same name as their class will not be constructors in a future version of PHP; CI_Router has a deprecated constructor</p>
+'<p>Filename: libraries/Router.php</p>
+<p>Line Number: 29</p>
+
+S</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+&<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+?<p>Message:  Only variables should be passed by reference</p>
+)<p>Filename: codeigniter/Common.php</p>
+<p>Line Number: 148</p>
+
+S</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+&<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+˜<p>Message:  Methods with the same name as their class will not be constructors in a future version of PHP; CI_Output has a deprecated constructor</p>
+'<p>Filename: libraries/Output.php</p>
+<p>Line Number: 29</p>
+
+S</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+&<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+?<p>Message:  Only variables should be passed by reference</p>
+)<p>Filename: codeigniter/Common.php</p>
+<p>Line Number: 148</p>
+
+S</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+&<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+—<p>Message:  Methods with the same name as their class will not be constructors in a future version of PHP; CI_Input has a deprecated constructor</p>
+&<p>Filename: libraries/Input.php</p>
+<p>Line Number: 29</p>
+
+S</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+&<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+?<p>Message:  Only variables should be passed by reference</p>
+)<p>Filename: codeigniter/Common.php</p>
+<p>Line Number: 148</p>
+
+S</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+&<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+š<p>Message:  Methods with the same name as their class will not be constructors in a future version of PHP; CI_Language has a deprecated constructor</p>
+)<p>Filename: libraries/Language.php</p>
+<p>Line Number: 27</p>
+
+S</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+&<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+?<p>Message:  Only variables should be passed by reference</p>
+)<p>Filename: codeigniter/Common.php</p>
+<p>Line Number: 148</p>
+
+S</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+&<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+–<p>Message:  Methods with the same name as their class will not be constructors in a future version of PHP; CI_Base has a deprecated constructor</p>
+(<p>Filename: codeigniter/Base5.php</p>
+<p>Line Number: 33</p>
+
+S</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+&<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+™<p>Message:  Methods with the same name as their class will not be constructors in a future version of PHP; Controller has a deprecated constructor</p>
++<p>Filename: libraries/Controller.php</p>
+<p>Line Number: 30</p>
+
+S</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+&<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+“<p>Message:  Methods with the same name as their class will not be constructors in a future version of PHP; Home has a deprecated constructor</p>
+'<p>Filename: controllers/home.php</p>
+<p>Line Number: 2</p>
+
+S</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+&<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+˜<p>Message:  Methods with the same name as their class will not be constructors in a future version of PHP; CI_Loader has a deprecated constructor</p>
+'<p>Filename: libraries/Loader.php</p>
+<p>Line Number: 29</p>
+
+S</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+&<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+?<p>Message:  Only variables should be passed by reference</p>
+)<p>Filename: codeigniter/Common.php</p>
+<p>Line Number: 148</p>
+
+S</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+&<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+›<p>Message:  Methods with the same name as their class will not be constructors in a future version of PHP; CI_DB_driver has a deprecated constructor</p>
+)<p>Filename: database/DB_driver.php</p>
+<p>Line Number: 31</p>
+
+S</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+&<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+?<p>Message:  Only variables should be passed by reference</p>
+"<p>Filename: database/DB.php</p>
+<p>Line Number: 133</p>
+
+</div>
+ jsonArrayResponse.length() - 1
+vjsonobject string - {"Latitude":49.27755,"Routes":"006, C23","Longitude":-123.12698,"Name":"EB DAVIE ST FS HOWE ST"}
+ jsonArrayResponse.length() - 4
+*key # 0 Name, Value - Latitude  49.27755
+(key # 0 Name, Value - Routes  006, C23
+route #0 006
+route #1  C23
+-key # 0 Name, Value - Longitude  -123.12698
+4key # 0 Name, Value - Name  EB DAVIE ST FS HOWE ST
+hello after params
+3**POST** request Url: https://reqres.in/api/users
+'Parameters : [name=venky, job=leader]
+Response Code: 201
+
+Content:-
+
+S{"name":"venky","job":"leader","id":"428","createdAt":"2018-11-15T01:44:17.300Z"}
+5jsonData- {"name":"bsanti","job":"testqa,testlead"}
+3**POST** request Url: https://reqres.in/api/users
+Response Code: 201
+
+Content:-
+
+-[{"name":"bsanti","job":"testqa,testlead"}]
+Latitude : 49.27755
+Routes : 006, C23
+Longitude : -123.12698
+Name : EB DAVIE ST FS HOWE ST
